@@ -17,5 +17,6 @@ public class Problema03 {
             cadena = String.format("%s\n", numero);
             System.out.printf("%s", cadena);
         }
-
-    }}
+        System.out.printf("2"+"\n"+cadena);
+    }
+}

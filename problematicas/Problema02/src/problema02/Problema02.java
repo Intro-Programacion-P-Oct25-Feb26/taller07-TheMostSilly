@@ -18,7 +18,7 @@ public class Problema02 {
             System.out.printf("%s", cadena);
 
         }
-
+        
     }
 
 }
